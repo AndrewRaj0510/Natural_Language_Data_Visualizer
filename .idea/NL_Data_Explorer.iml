@@ -7,4 +7,7 @@
     <orderEntry type="jdk" jdkName="Python 3.11 virtualenv at C:\Users\mail2\PycharmProjects\Natural_Language_Data_Visualizer\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="PackageRequirementsSettings">
+    <option name="removeUnused" value="true" />
+  </component>
 </module>
