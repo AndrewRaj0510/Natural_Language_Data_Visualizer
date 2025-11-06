@@ -40,20 +40,27 @@ The app automatically:
 ```bash
 git clone https://github.com/YOUR_USERNAME/nl-data-explorer.git
 cd nl-data-explorer
+```
 
 ### Activate Virtual Environment
+```bash
 python -m venv venv
 venv\Scripts\activate       # On Windows
 # source venv/bin/activate  # On macOS/Linux
+```
 
 ### Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### How to Run
 Make sure your LM Studio or local LLM endpoint is running on
 http://localhost:1234/v1/chat/completions.
 
 Then launch the Streamlit app:
+```bash
 streamlit run app.py
+```
 
 Open http://localhost:8501 in your browser.
