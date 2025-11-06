@@ -38,15 +38,15 @@ The app automatically:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/nl-data-explorer.git
-cd nl-data-explorer
+git clone https://github.com/AndrewRaj0510/Natural_Language_Data_Visualizer.git
+cd Natural_Language_Data_Visualizer
 ```
 
 ### Activate Virtual Environment
 ```bash
 python -m venv venv
 venv\Scripts\activate       # On Windows
-# source venv/bin/activate  # On macOS/Linux
+source venv/bin/activate    # On macOS/Linux
 ```
 
 ### Install Dependencies
