@@ -64,3 +64,5 @@ streamlit run app.py
 ```
 
 Open http://localhost:8501 in your browser.
+
+<img width="1905" height="854" alt="NLDV" src="https://github.com/user-attachments/assets/ca2fa6f1-42e1-4336-8e58-bb64a4ca4a01" />
